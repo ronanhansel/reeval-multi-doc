@@ -1,0 +1,163 @@
+\begin{thebibliography}{29}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bahri et~al.(2024)Bahri, Dyer, Kaplan, Lee, and Sharma]{bahri2024explaining}
+Bahri, Y., Dyer, E., Kaplan, J., Lee, J., and Sharma, U.
+\newblock Explaining neural scaling laws.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 121\penalty0 (27):\penalty0 e2311878121, 2024.
+
+\bibitem[Baker(2001)]{baker2001basics}
+Baker, F.~B.
+\newblock \emph{The basics of item response theory}.
+\newblock ERIC, 2001.
+
+\bibitem[Bock \& Aitkin(1981)Bock and Aitkin]{bock1981marginal}
+Bock, R.~D. and Aitkin, M.
+\newblock Marginal maximum likelihood estimation of item parameters: Application of an em algorithm.
+\newblock \emph{Psychometrika}, 46\penalty0 (4):\penalty0 443--459, 1981.
+
+\bibitem[Brennan(1992)]{brennan1992generalizability}
+Brennan, R.~L.
+\newblock Generalizability theory.
+\newblock \emph{Educational Measurement: Issues and Practice}, 11\penalty0 (4):\penalty0 27--34, 1992.
+
+\bibitem[Chalmers(2012)]{mirt}
+Chalmers, R.~P.
+\newblock mirt: A multidimensional item response theory package for the r environment.
+\newblock \emph{Journal of Statistical Software}, 48\penalty0 (6):\penalty0 1–29, 2012.
+\newblock \doi{10.18637/jss.v048.i06}.
+\newblock URL \url{https://www.jstatsoft.org/index.php/jss/article/view/v048i06}.
+
+\bibitem[Edgeworth(1888)]{Edgeworth1888}
+Edgeworth, F.~Y.
+\newblock The statistics of examinations.
+\newblock \emph{Journal of the Royal Statistical Society}, 51\penalty0 (3):\penalty0 599--635, 1888.
+\newblock ISSN 09528385.
+\newblock URL \url{http://www.jstor.org/stable/2339898}.
+
+\bibitem[He \& Chen(2020)He and Chen]{he2020optimal}
+He, Y. and Chen, P.
+\newblock Optimal online calibration designs for item replenishment in adaptive testing.
+\newblock \emph{psychometrika}, 85\penalty0 (1):\penalty0 35--55, 2020.
+
+\bibitem[Kaplan et~al.(2020)Kaplan, McCandlish, Henighan, Brown, Chess, Child, Gray, Radford, Wu, and Amodei]{kaplan2020}
+Kaplan, J., McCandlish, S., Henighan, T., Brown, T.~B., Chess, B., Child, R., Gray, S., Radford, A., Wu, J., and Amodei, D.
+\newblock Scaling laws for neural language models, 2020.
+\newblock URL \url{https://arxiv.org/abs/2001.08361}.
+
+\bibitem[Lalor et~al.(2018)Lalor, Wu, Munkhdalai, and Yu]{lalor2018understanding}
+Lalor, J.~P., Wu, H., Munkhdalai, T., and Yu, H.
+\newblock Understanding deep learning performance through an examination of test set difficulty: A psychometric case study.
+\newblock In \emph{Proceedings of the Conference on Empirical Methods in Natural Language Processing. Conference on Empirical Methods in Natural Language Processing}, volume 2018, pp.\  4711. NIH Public Access, 2018.
+
+\bibitem[Lalor et~al.(2019)Lalor, Wu, and Yu]{lalor2019learning}
+Lalor, J.~P., Wu, H., and Yu, H.
+\newblock Learning latent parameters without human response patterns: Item response theory with artificial crowds.
+\newblock In \emph{Proceedings of the Conference on Empirical Methods in Natural Language Processing. Conference on Empirical Methods in Natural Language Processing}, volume 2019, pp.\  4240. NIH Public Access, 2019.
+
+\bibitem[Liang(2023)]{liang2023helm}
+Liang, P. e.~a.
+\newblock Holistic evaluation of language models.
+\newblock \emph{Transactions on Machine Learning Research}, 2023.
+\newblock URL \url{https://openreview.net/forum?id=iO4LZibEqW}.
+
+\bibitem[Lord(1980)]{lord2012applications}
+Lord, F.~M.
+\newblock \emph{Applications of item response theory to practical testing problems}.
+\newblock Routledge, 1980.
+
+\bibitem[Maia~Polo et~al.(2024)Maia~Polo, Weber, Choshen, Sun, Xu, and Yurochkin]{polo2024tinybenchmarks}
+Maia~Polo, F., Weber, L., Choshen, L., Sun, Y., Xu, G., and Yurochkin, M.
+\newblock tinybenchmarks: evaluating llms with fewer examples.
+\newblock \emph{arXiv preprint arXiv:2402.14992}, 2024.
+
+\bibitem[Ostini \& Nering(2006)Ostini and Nering]{ostini2006polytomous}
+Ostini, R. and Nering, M.
+\newblock \emph{Polytomous Item Response Theory Models}.
+\newblock Polytomous Item Response Theory Models. SAGE Publications, 2006.
+\newblock ISBN 9780761930686.
+\newblock URL \url{https://books.google.com.hk/books?id=wS8VEMtJ3UYC}.
+
+\bibitem[Perlitz et~al.(2023)Perlitz, Bandel, Gera, Arviv, Ein-Dor, Shnarch, Slonim, Shmueli-Scheuer, and Choshen]{perlitz2023efficient}
+Perlitz, Y., Bandel, E., Gera, A., Arviv, O., Ein-Dor, L., Shnarch, E., Slonim, N., Shmueli-Scheuer, M., and Choshen, L.
+\newblock Efficient benchmarking (of language models).
+\newblock \emph{arXiv preprint arXiv:2308.11696}, 2023.
+
+\bibitem[Rasch(1993)]{rasch1993probabilistic}
+Rasch, G.
+\newblock \emph{Probabilistic models for some intelligence and attainment tests.}
+\newblock ERIC, 1993.
+
+\bibitem[Rodriguez et~al.(2021)Rodriguez, Barrow, Hoyle, Lalor, Jia, and Boyd-Graber]{rodriguez-etal-2021-evaluation}
+Rodriguez, P., Barrow, J., Hoyle, A.~M., Lalor, J.~P., Jia, R., and Boyd-Graber, J.
+\newblock Evaluation examples are not equally informative: How should that change {NLP} leaderboards?
+\newblock In Zong, C., Xia, F., Li, W., and Navigli, R. (eds.), \emph{Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)}, pp.\  4486--4503, Online, August 2021. Association for Computational Linguistics.
+\newblock \doi{10.18653/v1/2021.acl-long.346}.
+\newblock URL \url{https://aclanthology.org/2021.acl-long.346}.
+
+\bibitem[Ruan et~al.(2024)Ruan, Maddison, and Hashimoto]{ruan2024observational}
+Ruan, Y., Maddison, C.~J., and Hashimoto, T.
+\newblock Observational scaling laws and the predictability of language model performance.
+\newblock \emph{arXiv preprint arXiv:2405.10938}, 2024.
+
+\bibitem[Saranathan et~al.(2024)Saranathan, Alam, Lim, Bhattacharya, Wong, Foltin, and Xu]{saranathan2024dele}
+Saranathan, G., Alam, M.~P., Lim, J., Bhattacharya, S., Wong, S.~Y., Foltin, M., and Xu, C.
+\newblock Dele: Data efficient llm evaluation.
+\newblock In \emph{ICLR 2024 Workshop on Navigating and Addressing Data Problems for Foundation Models}, 2024.
+
+\bibitem[Schulman et~al.(2017)Schulman, Wolski, Dhariwal, Radford, and Klimov]{schulman2017ppo}
+Schulman, J., Wolski, F., Dhariwal, P., Radford, A., and Klimov, O.
+\newblock Proximal policy optimization algorithms, 2017.
+\newblock URL \url{https://arxiv.org/abs/1707.06347}.
+
+\bibitem[Spearman(1904)]{spearman1904}
+Spearman, C.
+\newblock The proof and measurement of association between two things.
+\newblock \emph{The American Journal of Psychology}, 1904.
+\newblock URL \url{https://psycnet.apa.org/record/1926-00292-001}.
+
+\bibitem[Van~der Linden et~al.(2000)Van~der Linden, Glas, et~al.]{van2000computerized}
+Van~der Linden, W.~J., Glas, C.~A., et~al.
+\newblock \emph{Computerized adaptive testing: Theory and practice}, volume~13.
+\newblock Springer, 2000.
+
+\bibitem[Vania et~al.(2021)Vania, Htut, Huang, Mungra, Pang, Phang, Liu, Cho, and Bowman]{vania2021comparing}
+Vania, C., Htut, P.~M., Huang, W., Mungra, D., Pang, R.~Y., Phang, J., Liu, H., Cho, K., and Bowman, S.~R.
+\newblock Comparing test sets with item response theory.
+\newblock \emph{arXiv preprint arXiv:2106.00840}, 2021.
+
+\bibitem[Vivek et~al.(2023)Vivek, Ethayarajh, Yang, and Kiela]{vivek2023anchor}
+Vivek, R., Ethayarajh, K., Yang, D., and Kiela, D.
+\newblock Anchor points: Benchmarking models with much fewer examples.
+\newblock \emph{arXiv preprint arXiv:2309.08638}, 2023.
+
+\bibitem[Wainer \& Mislevy(2000)Wainer and Mislevy]{wainer2000item}
+Wainer, H. and Mislevy, R.~J.
+\newblock Item response theory, item calibration, and proficiency estimation.
+\newblock In \emph{Computerized adaptive testing}, pp.\  61--100. Routledge, 2000.
+
+\bibitem[Wu et~al.(2020)Wu, Davis, Domingue, Piech, and Goodman]{wu2020variational}
+Wu, M., Davis, R.~L., Domingue, B.~W., Piech, C., and Goodman, N.
+\newblock Variational item response theory: Fast, accurate, and expressive.
+\newblock \emph{arXiv preprint arXiv:2002.00276}, 2020.
+
+\bibitem[Xu et~al.(2024)Xu, Saranathan, Alam, Shah, Lim, Wong, Martin, and Bhattacharya]{xu2024dataefficientevaluationlarge}
+Xu, C., Saranathan, G., Alam, M.~P., Shah, A., Lim, J., Wong, S.~Y., Martin, F., and Bhattacharya, S.
+\newblock Data efficient evaluation of large language models and text-to-image models via adaptive sampling, 2024.
+\newblock URL \url{https://arxiv.org/abs/2406.15527}.
+
+\bibitem[Zheng et~al.(2023)Zheng, Chiang, Sheng, Zhuang, Wu, Zhuang, Lin, Li, Li, Xing, Zhang, Gonzalez, and Stoica]{zheng2023judgingllm}
+Zheng, L., Chiang, W.-L., Sheng, Y., Zhuang, S., Wu, Z., Zhuang, Y., Lin, Z., Li, Z., Li, D., Xing, E.~P., Zhang, H., Gonzalez, J.~E., and Stoica, I.
+\newblock Judging llm-as-a-judge with mt-bench and chatbot arena, 2023.
+\newblock URL \url{https://arxiv.org/abs/2306.05685}.
+
+\bibitem[Zheng(2014)]{zheng2014new}
+Zheng, Y.
+\newblock \emph{New methods of online calibration for item bank replenishment}.
+\newblock University of Illinois at Urbana-Champaign, 2014.
+
+\end{thebibliography}

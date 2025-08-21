@@ -1,0 +1,40 @@
+\documentclass{article}
+\usepackage[accepted]{icml2025}
+\input{topmatter}
+\newcommand{\fix}{\marginpar{FIX}}
+\newcommand{\new}{\marginpar{NEW}}
+\newcommand\pl[1]{\textcolor{purple}{[PL: #1]}}
+\icmltitlerunning{Reliable and Efficient Amortized Model-based Evaluation}
+\begin{document}
+\twocolumn[
+\icmltitle{Reliable and Efficient Amortized Model-based Evaluation}
+\begin{icmlauthorlist}
+\icmlauthor{Sang Truong}{stf}
+\icmlauthor{Yuheng Tu}{bkl}
+\icmlauthor{Percy Liang}{stf}
+\icmlauthor{Bo Li}{vai,uiuc}
+\icmlauthor{Sanmi Koyejo}{stf,vai}
+\end{icmlauthorlist}
+\icmlaffiliation{stf}{Stanford University}
+\icmlaffiliation{vai}{Virtue AI}
+\icmlaffiliation{bkl}{University of California, Berkeley}
+\icmlaffiliation{uiuc}{University of Illinois Urbana-Champaign}
+\icmlcorrespondingauthor{Sang Truong}{sttruong@cs.stanford.edu}
+\icmlkeywords{Machine Learning, ICML}
+\vskip 0.3in
+]
+\printAffiliationsAndNotice{}
+\input{sections/0abstract}
+\input{sections/1intro}
+\input{sections/2relatedwork}
+\input{sections/3prelim}
+\input{sections/3method}
+\input{sections/4exp}
+\input{sections/5conclusion}
+\bibliographystyle{icml2025}
+\bibliography{references}
+\newpage
+\appendix
+\onecolumn
+\input{sections/6appendix}
+\end{document}
